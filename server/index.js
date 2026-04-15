@@ -17,6 +17,7 @@ const restaurantData = {
   reviews: 3636,
   price_per_person: 120,
   ranking: "北京东站美食口味榜第1名",
+  phone: ["13401024449", "18612238612"],
   locations: [
     {
       name: "百子湾啤酒花园店",
@@ -46,7 +47,7 @@ const deliveryInfo = {
 
 const wifiInfo = {
   ssid: "AzhaoChicken",
-  password: "请咨询店员"
+  password: "88888888"
 };
 
 const latestNews = [
