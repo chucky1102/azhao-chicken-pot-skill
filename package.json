@@ -1,0 +1,28 @@
+{
+  "name": "azhao-chicken-pot-skill",
+  "version": "0.1.0",
+  "description": "阿招鸡煲(百子湾啤酒花园店)信息查询 Skill - 支持菜单、定位、导航",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "dev": "cd server && npm install && node index.js"
+  },
+  "keywords": [
+    "openclaw",
+    "mcp",
+    "skill",
+    "restaurant",
+    "beijing",
+    "baiziwan",
+    "chicken-pot"
+  ],
+  "author": "威赛帝斯",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourname/azhao-chicken-pot-skill.git"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
